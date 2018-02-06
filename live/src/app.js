@@ -1,6 +1,6 @@
 // Vue
 import Vue from 'vue'
-import { rlPlugin } from './../../src/index.js'
+import { rlPlugin } from 'vue-right-label'
 
 // Bootstrap Vue
 import BootstrapVue from 'bootstrap-vue'

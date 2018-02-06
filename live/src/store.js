@@ -1,4 +1,4 @@
-import { rlStore } from  './../../src/index.js'
+import { rlStore } from  'vue-right-label'
 
 export default Object.assign(rlStore, {
 
