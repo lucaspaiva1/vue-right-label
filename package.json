@@ -1,0 +1,24 @@
+{
+  "name": "vue-right-label",
+  "version": "1.0.0",
+  "description": "Handle Labels with Vue.js",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbo317110/vue-right-label.git"
+  },
+  "keywords": [
+    "white-label",
+    "theme"
+  ],
+  "author": {
+    "name": "Francisco Santos",
+    "email": "cbo317110@gmail.com",
+    "url": "http://cbo317110.github.io/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cbo317110/vue-right-label/issues"
+  },
+  "homepage": "https://github.com/cbo317110/vue-right-label#readme"
+}
