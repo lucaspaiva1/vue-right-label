@@ -1,6 +1,6 @@
 {
   "name": "vue-right-label",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Handle Labels with Vue.js",
   "main": "src/index.js",
   "repository": {
