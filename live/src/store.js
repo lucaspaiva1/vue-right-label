@@ -1,5 +1,8 @@
 import { rlStore } from  'vue-right-label'
+import _ from 'lodash'
 
-export default Object.assign(rlStore, {
-
+export default _.merge(rlStore, {
+	state: {
+		neto: 1
+	}
 })

@@ -22,8 +22,7 @@ import './style/main.scss'
 Vue.use(VueRouter)
 Vue.use(BootstrapVue)
 Vue.use(Vuex)
-
-Vue.use(rlPlugin, {
+let label = {
 	locale: 'pt_BR',
 	locales: {
 		pt_BR: {
@@ -41,7 +40,9 @@ Vue.use(rlPlugin, {
 	videos: {
 		hereToCreate: 'sLmpxY_XRMU'
 	}
-})
+}
+console.log(label)
+Vue.use(rlPlugin, label)
 
 
 // App Environment
